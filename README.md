@@ -1,3 +1,11 @@
+# GifExpertApp - React
+Available on https://dawichi.github.io/gifexpertapp/
+
+This is a React project made for the course https://www.udemy.com/course/react-cero-experto from https://github.com/Klerith
+
+# --------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
