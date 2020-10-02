@@ -7,8 +7,8 @@ export const GifExpertApp = ({ defaultCategories = [] }) => {
     const [categories, setCategories] = useState( defaultCategories )
 
     return (
-        <>
-            <h2>GifExpertApp</h2>
+        <div className="w3-container" >
+            <h2 className="w3-panel w3-pale-blue w3-round-large">GifExpertApp</h2>
             <AddCategory setCategories={ setCategories }/>
             <hr/>
 
@@ -22,6 +22,6 @@ export const GifExpertApp = ({ defaultCategories = [] }) => {
                     ))
                 }
             </ol>
-        </>
+        </div>
     )
 }
