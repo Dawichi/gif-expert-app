@@ -3,6 +3,9 @@ Available on https://dawichi.github.io/gifexpertapp/
 
 This is a React project made for the course https://www.udemy.com/course/react-cero-experto from https://github.com/Klerith
 
+Made with React  
+CSS libraries: w3.css, animate.style
+
 # --------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
